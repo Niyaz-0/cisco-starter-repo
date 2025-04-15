@@ -11,3 +11,21 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.app-title{
+  color: #2b3fb3;
+}
+
+.card{
+  background-color: #2b3fb3;
+  color: whitesmoke;
+  width: 15%;
+  padding: 1rem;
+  margin: 0.5rem;
+  border-radius: 1rem;
+}
+
+.cards-container{
+  display: flex;
+
+}
